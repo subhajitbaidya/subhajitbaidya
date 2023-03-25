@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhajitbaidya
-- 👀 I’m a Flutter and Java Developer
-- 🌱 I’m currently learning MongoDB and Node.js
+- 👀 I am a Software Engineer
+- 🌱 My Skills include Python, Java, SQL, C, C++ 
 - 📫 You can reach me via my mail subhajitbaidya43@gmail.com
 
 <!---
