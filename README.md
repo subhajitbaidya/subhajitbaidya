@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit Baidya</h1>
 <h3 align="center">Software Engineer, India</h3>
 
-- 🔭 I’m currently working on **MERN Stack Dev, GEN AI, AWS, CI/CD, Docker, Kubernetes**
+- 🔭 Technologies focused **MERN Stack Dev, GEN AI, AWS, CI/CD, Docker, Kubernetes**
 
 - 📫 How to reach me **subhajitbaidya43@gmail.com**
 
