@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit Baidya</h1>
 <h3 align="center">Software Engineer, India</h3>
 
-- 🔭 Technologies focused **MERN Stack Dev, GEN AI, AWS, CI/CD, Docker, Kubernetes**
+- 🔭 Technologies focused **Full Stack Development, Generative AI**
 
 - 📫 How to reach me **subhajitbaidya43@gmail.com**
 
@@ -18,10 +18,9 @@
 
 
 **🚀 What I’m Working On**
-- Crafting responsive, user-friendly Full-Stack Applications  
-- Building scalable RESTful APIs with Node.js and Express  
-- Exploring containerization & orchestration with Docker and Kubernetes  
-- Practicing clean code and consistent version control workflows  
+- Crafting responsive, user-friendly and Scalable Full-Stack Applications
+- Writing PseudoCode of Algorithms to make my knowledge concrete and focusing on writing clean and reusable code
+- Working on System designs and deployment strategies as I understand planning is the key for creating. 
 - Getting started with Gen AI fundamentals  
 
 
