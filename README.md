@@ -19,8 +19,9 @@
 
 **🚀 What I’m Working On**
 - Crafting responsive, user-friendly and Scalable Full-Stack Applications
-- Writing PseudoCode of Algorithms to make my knowledge concrete and focusing on writing clean and reusable code
-- Working on System designs and deployment strategies as I understand planning is the key for creating. 
+- Writing PseudoCode of Algorithms to concrete knowledge base and focusing on writing clean and reusable code
+- Practicing Problems on LeetCode, Hackerrank
+- Working on System designs and deployment
 - Getting started with Gen AI 
 
 
