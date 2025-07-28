@@ -19,10 +19,10 @@
 
 **🚀 What I’m Working On**
 - Crafting responsive, user-friendly and Scalable Full-Stack Applications,
-- Integrating AI, Knowledge bases, Vector Embeddings and breaking applications into Microservices
+- Integrating AI, RAG, Vector Embeddings and breaking applications into Microservices
 - Writing PseudoCode of Algorithms to concrete knowledge base and focusing on writing clean and reusable code
 - Practicing Problems on LeetCode, Hackerrank
-- Working on LLD, HLD, Deployment Pipelines
+- Working on LLD, HLD, Deployment and Testing (CI/CD) Pipelines
 
 
 
