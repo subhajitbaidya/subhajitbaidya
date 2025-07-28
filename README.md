@@ -21,7 +21,7 @@
 - Crafting responsive, user-friendly and Scalable Full-Stack Applications
 - Writing PseudoCode of Algorithms to make my knowledge concrete and focusing on writing clean and reusable code
 - Working on System designs and deployment strategies as I understand planning is the key for creating. 
-- Getting started with Gen AI fundamentals  
+- Getting started with Gen AI 
 
 
 
