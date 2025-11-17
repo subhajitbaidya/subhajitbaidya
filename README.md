@@ -58,7 +58,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently building responsive, user-friendly, and scalable full-stack applications, integrating AI, RAG pipelines, vector embeddings, and evolving systems into microservices.<br><br>👯 I’m looking to collaborate on open-source projects with senior developers, DevOps engineers, and teams working on impactful, real-world solutions.<br><br>🤝 I’m seeking help with improving my competitive programming fundamentals and discovering high-quality resources for continuous learning.<br><br>🌱 I’m currently learning generative AI frameworks, distributed application deployment, and integrating CI/CD pipelines across projects.<br><br>💬 Feel free to reach out: subhajitbaidya43@gmail.com<br><br>⚡ Fun fact: I’m also a part-time musician!
+🔭 I’m currently building responsive, user-friendly, and scalable full-stack applications, integrating AI, RAG pipelines, vector embeddings, and evolving systems into microservices.<br>👯 I’m looking to collaborate on open-source projects with senior developers, DevOps engineers, and teams working on impactful, real-world solutions.<br>🤝 I’m seeking help with improving my competitive programming fundamentals and discovering high-quality resources for continuous learning.<br>🌱 I’m currently learning generative AI frameworks, distributed application deployment, and integrating CI/CD pipelines across projects.<br>💬 Feel free to reach out: subhajitbaidya43@gmail.com<br>⚡ Fun fact: I’m also a part-time musician!
 
 
 ## 🌐 Socials:
@@ -76,3 +76,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=subhajitbaidya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
