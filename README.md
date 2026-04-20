@@ -20,17 +20,17 @@
 
 I'm a software engineer with a strong focus on building **scalable full-stack systems** and **production-ready AI applications**. My work spans across designing responsive frontends, architecting distributed backends, and engineering intelligent agents that solve real-world problems.
 
-- 🤖 **AI Agent Development** — Designing and deploying autonomous AI agents using **LangChain**, **LangGraph**, and **FastAPI**. I build multi-step agentic workflows capable of reasoning, planning, and executing tasks with minimal human intervention.
+- 🎨 **Frontend Engineering** — Crafting responsive, performant, and accessible user interfaces using **React**, **TypeScript**, and **TailwindCSS**. I focus on clean component architecture, state management with **Redux**, and delivering smooth user experiences across devices.
 
-- 🔗 **Agent Integrations** — Building robust integrations for AI agents using **Apache Camel**, enabling seamless connectivity across enterprise systems, message queues, APIs, and data sources.
+- 🏗️ **Backend & Distributed Systems** — Architecting scalable microservices with **Node.js**, **NestJS**, and **FastAPI**, backed by event-driven communication via **Kafka**, **RabbitMQ**, and **Redis**. I design systems for high throughput, fault tolerance, and horizontal scalability.
 
-- 🧠 **RAG & Retrieval Optimization** — Improving agent accuracy and response quality through advanced **Retrieval-Augmented Generation (RAG)** pipelines, **PageIndex** strategies, and techniques like **semantic chunking**, **hybrid search**, and **re-ranking** to ensure precise, context-aware outputs.
+- 🗄️ **Data Modeling for Agentic & Full-Stack Applications** — Designing robust data schemas and retrieval architectures that power both traditional full-stack apps and AI-driven systems. This includes relational modeling with **PostgreSQL**, document stores with **MongoDB**, vector store design for **semantic search**, and building **RAG pipelines** with techniques like semantic chunking, PageIndex, and hybrid search for context-aware LLM outputs.
 
-- 🏗️ **Scalable Backends** — Architecting microservices with **Node.js**, **NestJS**, and **FastAPI**, leveraging **Kafka**, **RabbitMQ**, and **Redis** for event-driven, high-throughput distributed systems.
+- 🤖 **AI Agent Development & Deployment** — Building, deploying, and continuously improving autonomous AI agents using **LangChain**, **LangGraph**, and **FastAPI**. I design multi-step agentic workflows with tool use, memory, and planning capabilities, integrate agents with enterprise systems via **Apache Camel**, and iteratively improve agent accuracy through advanced retrieval strategies, prompt engineering, and LLM evaluation techniques.
 
-- 🌱 **Currently Exploring** — Distributed agent orchestration, CI/CD for AI pipelines, and advanced LLM evaluation and observability techniques.
+- 🌱 **Currently Exploring** — Distributed agent orchestration, CI/CD for AI pipelines, and advanced LLM observability with **LangSmith**.
 
-- 🤝 **Open to Collaboration** — Always interested in connecting with engineers working on impactful open-source projects, especially in the AI, DevOps, or distributed systems space.
+- 🤝 **Open to Collaboration** — Always interested in connecting with engineers working on impactful open-source projects in AI, DevOps, or distributed systems.
 
 - ⚡ **Fun fact** — I'm also a part-time musician!
 
