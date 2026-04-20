@@ -36,19 +36,6 @@ I'm a software engineer with a strong focus on building **scalable full-stack sy
 
 ---
 
-## 🧠 AI & ML Expertise
-
-| Area | Skills & Tools |
-|---|---|
-| **Agent Frameworks** | LangChain, LangGraph, LangSmith |
-| **RAG & Retrieval** | Semantic Chunking, PageIndex, Hybrid Search, Vector Embeddings |
-| **LLM Serving** | FastAPI, Streamlit, REST APIs |
-| **Agent Integrations** | Apache Camel, RabbitMQ, Kafka |
-| **Data & ML** | NumPy, Pandas, Matplotlib, OpenCV |
-| **Vector Stores** | Supabase pgvector, Redis, MongoDB Atlas |
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
